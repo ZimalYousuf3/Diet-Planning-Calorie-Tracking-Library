@@ -103,5 +103,4 @@ Input is fully user driven at runtime.
 **Zimal Yousuf**  
 BSCS Student | C++ Programmer  
 *Passionate about clean code and foundational programming concepts*
-Course : Object Oriented Programming
-Degree : BSCS
+
