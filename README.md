@@ -24,7 +24,7 @@ hardcoded in the program.
 | File          | Purpose                          |
 |---------------|----------------------------------|
 | DietPlanner.h | Main library with Meal class     |
-| main.cpp      | Demo file testing all features   |
+| DietPlanner_Library.cpp      | Demo file testing all features   |
 | README.txt    | Project documentation            |
 
 ---
